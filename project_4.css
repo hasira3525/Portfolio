@@ -33,7 +33,7 @@ h1{
   text-shadow: 2px 2px 4px #11101083;
 }
 .row1 .col3{
-    width: 0%;
+    width: 50%;
     height: 100%;
     display: flex;
     align-items: center;
